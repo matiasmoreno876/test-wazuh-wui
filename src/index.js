@@ -3,6 +3,8 @@ import ReactDOM from 'react-dom';
 import './index.css';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
+import 'wazuh-wui/dist/eui_theme_wazuh_light.css';
+
 
 ReactDOM.render(
   <React.StrictMode>
